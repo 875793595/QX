@@ -13,3 +13,5 @@ vmess=L1-aws-hk-06.baipiao.de:80, method=aes-128-gcm, password=1ae8f74a-d1ee-3c8
 vmess=75.2.123.4:40202, method=aes-128-gcm, password=91099f8a-b72a-3b1b-9f12-cdc0d255c583, obfs=ws, obfs-host=75.2.123.4, obfs-uri=/honda, fast-open=false, udp-relay=false, tag=香港|YouTube去广告|TG频道(@baipiaojiedian)
 
 shadowsocks=37.120.194.99:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=丹麦|TG频道(@baipiaojiedian)
+
+shadowsocks=2.58.241.43:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, udp-relay=false, tag=HK香港高速低延迟|TG频道(@baipiaojiedian)
