@@ -2,8 +2,6 @@ shadowsocks=103.98.75.71:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4
 
 vmess=jmnt.speed17.club:51177, method=aes-128-gcm, password=69a75a78-5ecb-4ef4-88f7-ac4a0ea2d530, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, udp-relay=false, tag=美国|TG频道(@baipiaojiedian)
 
-trojan=fuckxiaofenhong.ml:443, password=6cbf2318-e64e-4d2e-a267-9bf66d91c264, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=TG频道（baipiaojiedian）
-
 vmess=v114.mxv2ssr.xyz:41114, method=aes-128-gcm, password=778d5807-82f4-3d30-b26b-84a33e5f3574, obfs=wss, obfs-host=v114.mxv2ssr.xyz, obfs-uri=/hls/cctv5phd.m3u8, tls-verification=false, fast-open=false, udp-relay=false, tag=🇺🇲 美国|TG群(@baipiaojiedian)
 
 vmess=shanghai-cn2-nat.baipiao.de:25042, method=aes-128-gcm, password=f1f78b70-2c36-350b-a0c6-1c6d76e9f929, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇸🇬新加坡|TG频道(@baipiaojiedian)
@@ -15,3 +13,5 @@ vmess=75.2.123.4:40202, method=aes-128-gcm, password=91099f8a-b72a-3b1b-9f12-cdc
 shadowsocks=37.120.194.99:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=丹麦|TG频道(@baipiaojiedian)
 
 shadowsocks=2.58.241.43:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, udp-relay=false, tag=HK香港高速低延迟|TG频道(@baipiaojiedian)
+
+vmess=13.248.155.0:40206, method=aes-128-gcm, password=91099f8a-b72a-3b1b-9f12-cdc0d255c583, obfs=ws, obfs-host=13.248.155.0, obfs-uri=/honda, fast-open=false, udp-relay=false, tag=🇺🇲美国高速低延迟|YouTube去广告|TG群(@baipiaojiedian)
