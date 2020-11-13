@@ -21,3 +21,4 @@ vmess=75.2.112.123:8124, method=aes-128-gcm, password=9aeb8c2a-70f6-4162-bae0-36
 
 
 
+vmess=158.247.193.115:31271, method=aes-128-gcm, password=4187e774-0a97-49b6-94a4-e4a4cd71ce55, fast-open=false, udp-relay=false, tag=美国低延迟|TG频道(@baipiaojiedian)
