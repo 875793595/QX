@@ -11,3 +11,8 @@ vmess=azhk3.ssrcloud.co:8083, method=none, password=9aeb8c2a-70f6-4162-bae0-36ba
 vmess=azhk1.ssrcloud.co:8083, method=none, password=9aeb8c2a-70f6-4162-bae0-36ba63266f33, obfs=ws, obfs-host=azhk1.ssrcloud.co, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇭🇰 高速香港1|TG群(@baipiaojiedian)
 
 vmess=azhk5.ssrcloud.co:8083, method=none, password=9aeb8c2a-70f6-4162-bae0-36ba63266f33, obfs=ws, obfs-host=azhk5.ssrcloud.co, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇭🇰 高速香港2|TG群(@baipiaojiedian)
+
+vmess=99.83.201.80:8124, method=aes-128-gcm, password=9aeb8c2a-70f6-4162-bae0-36ba63266f33, obfs=ws, obfs-host=99.83.201.80, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇸🇬新加坡高速低延迟去广告|TG频道(@baipiaojiedian)
+
+vmess=172.104.93.145:8077, method=aes-128-gcm, password=53f8b3f5-9ac3-4d76-b616-b78557b36f5e, obfs=ws, obfs-host=172.104.93.145, obfs-uri=/, fast-open=false, udp-relay=false, tag=日本东京|TG频道(@baipiaojiedian)
+
