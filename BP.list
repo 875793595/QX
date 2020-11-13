@@ -16,3 +16,8 @@ vmess=99.83.201.80:8124, method=aes-128-gcm, password=9aeb8c2a-70f6-4162-bae0-36
 
 vmess=172.104.93.145:8077, method=aes-128-gcm, password=53f8b3f5-9ac3-4d76-b616-b78557b36f5e, obfs=ws, obfs-host=172.104.93.145, obfs-uri=/, fast-open=false, udp-relay=false, tag=日本东京|TG频道(@baipiaojiedian)
 
+
+vmess=75.2.112.123:8124, method=aes-128-gcm, password=9aeb8c2a-70f6-4162-bae0-36ba63266f33, obfs=ws, obfs-host=75.2.112.123, obfs-uri=/, fast-open=false, udp-relay=false, tag=新加坡|极速|极低延迟|YouTube去广告|TG频道(@baipiaojiedian)
+
+
+
