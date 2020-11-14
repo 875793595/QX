@@ -15,5 +15,5 @@ vmess=80.HKG.ASIA.BIGAIRPORT.NET:80, method=aes-128-gcm, password=2c2cb45e-f670-
 vmess=45.32.20.226:41553, method=aes-128-gcm, password=c4cf7dfb-50c5-49b0-83c6-48f8e39d9de1, fast-open=false, udp-relay=false, tag=日本低延迟|TG频道(@baipiaojiedian)
 
 
-vmess=45.32.20.226:41553, method=aes-128-gcm, password=c4cf7dfb-50c5-49b0-83c6-48f8e39d9de1, fast-open=false, udp-relay=false, tag=日本低延迟|TG频道(@baipiaojiedian)
+vmess=la001.usaxyz.xyz:443, method=aes-128-gcm, password=2b2db318-6996-4f41-aa34-8d989727aafa, obfs=wss, obfs-host=la001.usaxyz.xyz, obfs-uri=/bd79c09/, tls-verification=false, fast-open=false, udp-relay=false, tag=wulabing_la001.usaxyz.xyz
 
