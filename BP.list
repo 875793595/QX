@@ -4,16 +4,3 @@ shadowsocks=37.120.194.99:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2
 
 shadowsocks=2.58.241.43:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, udp-relay=false, tag=HK香港高速低延迟|TG频道(@baipiaojiedian)
 
-
-vmess=158.247.193.115:31271, method=aes-128-gcm, password=4187e774-0a97-49b6-94a4-e4a4cd71ce55, fast-open=false, udp-relay=false, tag=美国低延迟|TG频道(@baipiaojiedian)
-
-
-vmess=80.HKG.ASIA.BIGAIRPORT.NET:80, method=aes-128-gcm, password=2c2cb45e-f670-4eff-999f-34ea54784c8e, obfs=ws, obfs-host=80.HKG.ASIA.BIGAIRPORT.NET, obfs-uri=/, fast-open=false, udp-relay=false, tag=香港|TG频道(@baipiaojiedian)
-
-
-vmess=45.32.20.226:41553, method=aes-128-gcm, password=c4cf7dfb-50c5-49b0-83c6-48f8e39d9de1, fast-open=false, udp-relay=false, tag=日本低延迟|TG频道(@baipiaojiedian)
-
-
-vmess=la001.usaxyz.xyz:443, method=aes-128-gcm, password=2b2db318-6996-4f41-aa34-8d989727aafa, obfs=wss, obfs-host=la001.usaxyz.xyz, obfs-uri=/bd79c09/, tls-verification=false, fast-open=false, udp-relay=false, tag=wulabing_la001.usaxyz.xyz
-
-vmess=zz2.kgcloud.club:33339, method=aes-128-gcm, password=025db0af-3352-495b-8237-bcbd647503f2, obfs=ws, obfs-host=zz2.kgcloud.club, obfs-uri=/, fast-open=false, udp-relay=false, tag=台湾|TG频道(@baipiaojiedian)
