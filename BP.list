@@ -4,19 +4,3 @@ shadowsocks=37.120.194.99:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2
 
 shadowsocks=2.58.241.43:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, udp-relay=false, tag=HK香港高速低延迟|TG频道(@baipiaojiedian)
 
-vmess = 13.75.65.36:80, method=chacha20-ietf-poly1305, password=c259d157-c65d-4444-91a7-6aa49ae2019d, obfs=ws, obfs-host=13.75.65.36, obfs-uri=/, tag=🇭🇰 香港1→TG@baipiaojiedian
-vmess = 124.244.186.121:443, method=chacha20-ietf-poly1305, password=b707c9e6-3a61-4f0b-8844-9a398cfadfb7, obfs=wss, obfs-host=centos.fuchau.xyz, obfs-uri=/add76314/, tag=🇭🇰 香港2→TG@baipiaojiedian
-vmess = 52.194.248.249:13848, method=chacha20-ietf-poly1305, password=e3e3150b-ce47-489c-83f9-52a12d952aa5, obfs=ws, obfs-host=52.194.248.249, obfs-uri=/dwn, tag=🇯🇵 日本1→TG@baipiaojiedian
-vmess = 45.32.53.152:443, method=chacha20-ietf-poly1305, password=2139d006-302a-11eb-a507-56000313e3b2, obfs=wss, obfs-host=xibun.cf, obfs-uri=/GtEgY609/, tag=🇯🇵 日本2→TG@baipiaojiedian
-vmess = 132.145.115.125:443, method=chacha20-ietf-poly1305, password=6b38627b-a045-4d79-95c8-e505073dd12d, obfs=wss, obfs-host=j.199301.xyz, obfs-uri=/0361125/, tag=🇯🇵 日本3→TG@baipiaojiedian
-vmess = xibun.cf:443, method=chacha20-ietf-poly1305, password=2139d006-302a-11eb-a507-56000313e3b2, obfs=wss, obfs-host=xibun.cf, obfs-uri=/GtEgY609/, tag=🇯🇵 日本4→TG@baipiaojiedian
-vmess = 3.34.98.55:80, method=chacha20-ietf-poly1305, password=f5a8b2fb-f749-3f7e-947a-86e91ffedd08, obfs=ws, obfs-host=3.34.98.55, obfs-uri=/v2ray, tag=🇰🇷 韩国1→TG@baipiaojiedian
-vmess = 13.124.2.32:80, method=chacha20-ietf-poly1305, password=f5a8b2fb-f749-3f7e-947a-86e91ffedd08, obfs=ws, obfs-host=13.124.2.32, obfs-uri=/v2ray, tag=🇰🇷 韩国2→TG@baipiaojiedian
-vmess = 176.32.35.236:35295, method=chacha20-ietf-poly1305, password=f4c67eba-80ba-4cf9-ae5a-719f7700a8a2, tag=🇷🇺 俄罗斯1→TG@baipiaojiedian
-vmess = 46.29.163.142:21174, method=chacha20-ietf-poly1305, password=2c62cde9-a01f-47eb-a3ef-3ca4873eb2a2, tag=🇷🇺 俄罗斯2→TG@baipiaojiedian
-vmess = 46.17.44.107:21758, method=chacha20-ietf-poly1305, password=acd37a64-5147-4717-9693-04beae9a201c, tag=🇷🇺 俄罗斯3→TG@baipiaojiedian
-vmess = 46.17.45.174:47307, method=chacha20-ietf-poly1305, password=6523e57e-8761-4742-9d06-aa3231202193, tag=🇷🇺 俄罗斯4→TG@baipiaojiedian
-vmess = 207.148.68.110:30973, method=chacha20-ietf-poly1305, password=0c1a9067-d4be-4150-9386-6c7474adc27a, tag=🇸🇬 新加坡1→TG@baipiaojiedian
-vmess = 8.210.3.133:56647, method=chacha20-ietf-poly1305, password=c2181184-e487-4b37-a029-f61d90523950, tag=🇸🇬 新加坡2→TG@baipiaojiedian
-vmess = 13.248.209.186:1000, method=chacha20-ietf-poly1305, password=786d1602-3cc9-405f-87c7-446c84cd92a8, obfs=over-tls, obfs-host=94.v2nb.cf, tag=🇺🇲 美国1→TG@baipiaojiedian
-vmess = rntwo.laoban666.xyz:443, method=chacha20-ietf-poly1305, password=114f5786-a8a0-446a-a32f-446893480560, obfs=wss, obfs-host=rntwo.laoban666.xyz, obfs-uri=/27353486f3a1d4f/, tag=🇺🇲 美国2→TG@baipiaojiedian
