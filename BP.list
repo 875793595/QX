@@ -4,3 +4,12 @@ shadowsocks=37.120.194.99:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2
 
 shadowsocks=2.58.241.43:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, udp-relay=false, tag=HK香港高速低延迟|TG频道(@baipiaojiedian)
 
+http=ap1-us.er3.xyz:29988, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连美国
+http=ap1-uk.er3.xyz:29987, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连英国
+http=ap1-ge.er3.xyz:29984, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连德国
+http=ap1-ca.er3.xyz:29983, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连加拿大
+http=ap1-au.er3.xyz:29982, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连澳大利亚
+http=ap1-jp.er3.xyz:29985, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连日本
+http=ap1-sg.er3.xyz:29986, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连新加坡1
+http=a1.er3.xyz:29980, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连新加坡2
+http=a1.ap.fastqvpn.com:29980, username= 419519931755790336, password=5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=Clubhouse
